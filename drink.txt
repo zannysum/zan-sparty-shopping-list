@@ -2,3 +2,5 @@ Milk
 Chocolate milk
 Apple Juice
 Pina colada
+strawberry milkshake
+coffee
